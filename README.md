@@ -1,4 +1,9 @@
 ## Getting Started
+Clone the repository:
+```
+git clone https://github.com/stephenjpeng/sudoku && cd sudoku
+```
+
 To install requirements, use
 ```
 pip install -r requirements.txt
