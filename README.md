@@ -4,6 +4,13 @@ To install requirements, use
 pip install -r requirements.txt
 ```
 
+`scrot` is also a dependency-- depending on your distribution, try:
+```
+yum install scrot
+sudo apt-get install scrot
+```
+
+
 To run the program, just run `sudoku.py`. 
 
 Note: due to anti-aliasing issues on the Anaconda `tkinter` interface, it is highly recommended that Anaconda Python is not used. I was too lazy to figure out what was going on.
