@@ -14,10 +14,10 @@ Note: due to anti-aliasing issues on the Anaconda `tkinter` interface, it is hig
 1. <kbd>Play/Pause</kbd> pauses/resumes the timer.
 
 ## Shortcuts
-<kbd>🡐</kbd> <kbd>🡒</kbd> <kbd>🡑</kbd> <kbd>🡓</kbd> or <kbd>Click</kbd> to move around the grid.
-<kbd>Shift</kbd> + [<kbd>🡐</kbd> <kbd>🡒</kbd> <kbd>🡑</kbd> <kbd>🡓</kbd>] or <kbd>Ctril</kbd> + <kbd>Click</kbd> to highlight multiple cells.
-<kbd>Shift</kbd> + [<kbd>1</kbd> - <kbd>9</kbd>] pencils the given digit(s) in the corner.
-<kbd>Ctrl</kbd> + [<kbd>1</kbd> - <kbd>9</kbd>] pencils the given digit(s) in the center.
-<kbd>Bksp</kbd> deletes user-entered answers from the grid.
-<kbd>Del</kbd> deletes user-entered answers and pencil marks from the grid.
-<kbd>Ctrl</kbd> + <kbd>c</kbd>, <kbd>Ctrl</kbd> + <kbd>x</kbd>, and <kbd>Ctrl</kbd> + <kbd>v</kbd> work as expected (copy/cut/paste)-- only work for single cell operations.
+<kbd>🡐</kbd> <kbd>🡒</kbd> <kbd>🡑</kbd> <kbd>🡓</kbd> or <kbd>Click</kbd> to move around the grid.<br/>
+<kbd>Shift</kbd> + [<kbd>🡐</kbd> <kbd>🡒</kbd> <kbd>🡑</kbd> <kbd>🡓</kbd>] or <kbd>Ctril</kbd> + <kbd>Click</kbd> to highlight multiple cells.<br/>
+<kbd>Shift</kbd> + [<kbd>1</kbd> - <kbd>9</kbd>] pencils the given digit(s) in the corner.<br/>
+<kbd>Ctrl</kbd> + [<kbd>1</kbd> - <kbd>9</kbd>] pencils the given digit(s) in the center.<br/>
+<kbd>Bksp</kbd> deletes user-entered answers from the grid.<br/>
+<kbd>Del</kbd> deletes user-entered answers and pencil marks from the grid.<br/>
+<kbd>Ctrl</kbd> + <kbd>c</kbd>, <kbd>Ctrl</kbd> + <kbd>x</kbd>, and <kbd>Ctrl</kbd> + <kbd>v</kbd> work as expected (copy/cut/paste)-- only work for single cell operations.<br/>
